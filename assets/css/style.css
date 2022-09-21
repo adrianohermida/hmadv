@@ -80,7 +80,7 @@ body{
     overflow-x: hidden !important;
     font-size: 16px;
     line-height: 24px;
-    color: #162542;
+    color: #13294b;
 }
 
 /*==Selection==*/
@@ -133,7 +133,7 @@ p {
 .h2-title{
     font-family: 'Frank Ruhl Libre', serif;
     font-size: 65px;
-    color: #162542;
+    color: #13294b;
     line-height: 80px;
     font-weight: 700;
     padding-bottom: 25px;
@@ -143,7 +143,7 @@ p {
 .h3-title {
     font-family: 'Frank Ruhl Libre', serif;
     font-size: 25px;
-    color: #162542;
+    color: #13294b;
     line-height: 35px;
     font-weight: 700;
 }
@@ -576,7 +576,7 @@ input, input:focus, input:hover, button, button:hover, button:focus {
 }
 
 .header-contact a:hover {
-    color: #162542;
+    color: #13294b;
 }
 
 .header-contact a span {
@@ -616,7 +616,7 @@ input, input:focus, input:hover, button, button:hover, button:focus {
 }
 
 .Social-midea a:hover {
-    color: #162542;
+    color: #13294b;
 
 }
 
@@ -670,7 +670,7 @@ input, input:focus, input:hover, button, button:hover, button:focus {
 .main-navigation ul li a {
     font-size: 16px;
     line-height: 24px;
-    color: #162542;
+    color: #13294b;
     font-weight: 700;
     transition: 0.3s;
    font-family: 'Frank Ruhl Libre', serif;
@@ -779,7 +779,7 @@ input, input:focus, input:hover, button, button:hover, button:focus {
 
 .main-navigation ul li ul.sub-menu li a {
     display: block;
-    color: #162542;
+    color: #13294b;
     padding: 5px 15px;
     transition: 0.3s;
 }
@@ -1125,7 +1125,7 @@ input, input:focus, input:hover, button, button:hover, button:focus {
 .about-us-content-box ul li p {
     width: calc(100% - 30px);
     margin-bottom: 0;
-    color: #162542;
+    color: #13294b;
     font-weight: 500;
     margin-left: 15px;
 }
@@ -1461,7 +1461,7 @@ input, input:focus, input:hover, button, button:hover, button:focus {
 .case-img:before {
     content: "";
     position: absolute;
-    background-color: #162542;
+    background-color: #13294b;
     top: 0;
     bottom: 0;
     left: 0;
@@ -2226,7 +2226,7 @@ input, input:focus, input:hover, button, button:hover, button:focus {
 
 /*==========Footer Start==========*/
 .main-footer {
-    background-color: #162542;
+    background-color: #13294b;
     padding-top: 120px;
 }
 
@@ -2544,7 +2544,7 @@ input, input:focus, input:hover, button, button:hover, button:focus {
 .main-testimonial-in {
     padding-top: 120px;
     padding-bottom: 290px;
-    background-color: #162542;
+    background-color: #13294b;
 }
 /*====Testimonial End=====*/
 /*==========Service Page End==========*/
@@ -2832,7 +2832,7 @@ input, input:focus, input:hover, button, button:hover, button:focus {
 .case-detail-info-box {
     position: absolute;
     padding: 40px;
-    background-color: #162542;
+    background-color: #13294b;
     bottom: 0;
     left: 0;
 }
@@ -3098,7 +3098,7 @@ input, input:focus, input:hover, button, button:hover, button:focus {
 }
 
 .blog-detail-text-box {
-    background-color: #162542;
+    background-color: #13294b;
     padding: 30px;
     margin-top: 43px;
     margin-bottom: 43px;
@@ -3468,7 +3468,7 @@ input, input:focus, input:hover, button, button:hover, button:focus {
 
 .comment-btn:hover {
     color:#ffffff;
-    background-color: #162542;
+    background-color: #13294b;
     transition: 0.3s;
 }
 
@@ -3753,7 +3753,7 @@ input, input:focus, input:hover, button, button:hover, button:focus {
 
     .h3-title {
         font-size: 22px;
-        color: #162542;
+        color: #13294b;
         line-height: 32px;
     }
 
