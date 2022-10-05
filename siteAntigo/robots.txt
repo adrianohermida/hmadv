@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /account/
+Disallow: /pages/
+Disallow: /resources/
+Disallow: /shop/
+Sitemap: https://hermidamaia.adv.br/sitemap.xml
